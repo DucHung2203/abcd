@@ -27,3 +27,8 @@ cursor: pointer;
 #add-task-btn:hover { 
 background-color: #0056b3; 
 }
+
+#add-task-btn:hover { 
+    background-color: red
+    }
+
